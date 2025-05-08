@@ -70,7 +70,7 @@ ChronoBrowse is a Python script designed to parse browser history artifacts from
 
 ## Screenshots
 
-*(Optional: Add screenshots of the GUI here to showcase the interface. You can capture the ChronoBrowse window and upload the images to the repository, then link them here using Markdown: `![Screenshot](path/to/screenshot.png)`.)*
+`![Chronobrowse GUI(https://raw.githubusercontent.com/your-username/ChronoBrowse/main/screenshots/screenshot.png))`.)*
 
 ## Project Structure
 
