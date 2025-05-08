@@ -1,6 +1,6 @@
-# ChronoBrowse
+# ChronoBrowser
 
-ChronoBrowse is a Python script designed to parse browser history artifacts from Chromium-based browsers (e.g., Chrome, Edge) and Firefox. It extracts detailed browsing history, downloads, search keywords, and preferences, presenting the data in a user-friendly GUI built with PyQt5. The script also supports exporting parsed data to CSV files for further analysis.
+ChronoBrowser is a Python script designed to parse browser history artifacts from Chromium-based browsers (e.g., Chrome, Edge) and Firefox. It extracts detailed browsing history, downloads, search keywords, and preferences, presenting the data in a user-friendly GUI built with PyQt5. The script also supports exporting parsed data to CSV files for further analysis.
 
 ## Features
 
@@ -70,7 +70,7 @@ ChronoBrowse is a Python script designed to parse browser history artifacts from
 
 ## Screenshots
 
-`![Chronobrowse GUI(https://raw.githubusercontent.com/your-username/ChronoBrowse/main/screenshots/screenshot.png))`.)*
+`![Chronobrowser GUI(https://raw.githubusercontent.com/sazznyx/ChronoBrowser/main/screenshots/ss1.jpg))`.)*
 
 ## Project Structure
 
