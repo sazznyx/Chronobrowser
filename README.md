@@ -25,7 +25,7 @@ ChronoBrowser is a Python script designed to parse browser history artifacts fro
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ChronoBrowse.git
+   git clone https://github.com/sazznyx/ChronoBrowse.git
    cd ChronoBrowse
    ```
 
@@ -109,6 +109,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or issues, please open an issue on GitHub or contact [adibhakimi92@gmail.com](mailto:adibhakimi92@gmail.com).
 
 ---
