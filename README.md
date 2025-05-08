@@ -70,7 +70,7 @@ ChronoBrowser is a Python script designed to parse browser history artifacts fro
 
 ## Screenshots
 
-`![Chronobrowser GUI](https://raw.githubusercontent.com/sazznyx/ChronoBrowser/main/screenshots/ss1.jpg))`.)*
+`![Chronobrowser GUI](https://raw.githubusercontent.com/sazznyx/Chronobrowser/blob/main/screenshots/ss1.jpg)`.)*
 
 ## Project Structure
 
