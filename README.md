@@ -7,7 +7,7 @@ ChronoBrowser is a Python script designed to parse browser history artifacts fro
 - **Browser Support**: Parses history from Chromium-based browsers (Chrome, Edge) and Firefox.
 - **Data Extraction**:
   - Browsing history with timestamps, URLs, titles, and redirection chains.
-  - Downloads with file hashes and metadata.
+  - Downloads history.
   - Search keywords extracted from URLs.
   - Browser preferences, including sync status and account details.
 - **GUI Interface**: Built with PyQt5, offering tabs for history, downloads, preferences, and search keywords.
